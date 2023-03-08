@@ -1,0 +1,28 @@
+<datosMarte>
+    <listaOrganismos>
+        <organismo>
+            <codigo>4</codigo>
+            <nombre>4</nombre>
+        </organismo>
+    </listaOrganismos>
+    <listadoMuestras>
+        <muestra>
+            <codigo>codigo muestra</codigo>
+            <descripcion>descripcion muestra</descripcion>
+            <filas>filas muestra</filas>
+            <columnas>columna muestras</columnas>
+            <listadoCeldasVivas>
+                <celdaViva>
+                    <fila>fila celda viva</fila>
+                    <columna>columna celda viva</columna>
+                    <codigoOrganismo>organismo celda viva</codigoOrganismo>
+                </celdaViva>
+                <celdaViva>
+                    <fila>fila celda viva</fila>
+                    <columna>columna celda viva</columna>
+                    <codigoOrganismo>organismo celda viva</codigoOrganismo>
+                </celdaViva>
+            </listadoCeldasVivas>
+        </muestra>
+    </listadoMuestras>
+</datosMarte>
